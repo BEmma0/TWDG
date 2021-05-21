@@ -1,2 +1,0 @@
-# TWDG
-Az utolsó projekt.

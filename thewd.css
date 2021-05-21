@@ -1,0 +1,13 @@
+body{
+    background-image: url(kepek/hatter.jpg);
+    background-size: contain;
+}
+
+#egész{
+    text-align: justify;
+    margin: auto;
+}
+
+.hatter{
+    background-color: rgba(126, 125, 125, 0.527);
+}

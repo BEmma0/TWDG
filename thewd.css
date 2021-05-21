@@ -1,6 +1,7 @@
 body{
     background-image: url(kepek/hatter.jpg);
     background-size: contain;
+    text-align: justify;
 }
 
 #egész{
@@ -10,4 +11,17 @@ body{
 
 .hatter{
     background-color: rgba(126, 125, 125, 0.527);
+}
+
+.hatter:hover{
+    background-color: rgba(155, 153, 153, 0.527);
+}
+
+table{
+    text-align: justify;
+}
+
+.sor:hover{
+    background-color: rgba(155, 153, 153, 0.527);
+
 }

@@ -10,11 +10,11 @@ body{
 }
 
 .hatter{
-    background-color: rgba(139, 138, 138, 0.527);
+    background-color: rgba(194, 189, 189, 0.904);
 }
 
 .hatter:hover{
-    background-color: rgba(179, 175, 175, 0.527);
+    background-color: rgba(248, 248, 248, 0.747);
 }
 
 table{
